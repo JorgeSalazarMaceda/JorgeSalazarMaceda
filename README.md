@@ -1,12 +1,9 @@
 <h1 align="center">¡Hi! 👋, I´m Jorge Salazar</h1>
 <h2 align="center" style="color: blue;">About me</h2>
-<h3 align="center">Law graduate and lawyer👨🏼‍⚖️, reoriented towards my passion for technology 💻. Graduated as a Higher Technician in Web Application Development (DAW), and specializing as a web developer for Microsoft Azure. I'm also specializing in cybersecurity, all for secure browsing 😄 and to satisfy my hunger for knowledge. My goal is to become a great full-stack developer, and that's why I'm researching and trying to improve every day. 💪💪 \n
-\n
-I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 \n
-\n
-🕵🏼‍♂️👨🏼‍💻 I worked for years as a lawyer, specializing in property law 🏬, but I decided to change my life and fulfill the dream of exploring new technologies from within. That's why I prefer to develop, bring them to life, and create beautiful projects. \n
-\n
-I love reading, history (I'm a good tour guide, 😜), movies, sports🏃🏼‍♂️, and videogames.</h3>
+<h3 align="center">Law graduate and lawyer👨🏼‍⚖️, reoriented towards my passion for technology 💻. Graduated as a Higher Technician in Web Application Development (DAW), and specializing as a web developer for Microsoft Azure. I'm also specializing in cybersecurity, all for secure browsing 😄 and to satisfy my hunger for knowledge. My goal is to become a great full-stack developer, and that's why I'm researching and trying to improve every day. 💪💪 </h3>
+<h3>I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 </h3>
+<h3>🕵🏼‍♂️👨🏼‍💻 I worked for years as a lawyer, specializing in property law 🏬, but I decided to change my life and fulfill the dream of exploring new technologies from within. That's why I prefer to develop, bring them to life, and create beautiful projects.</h3>
+<h3>I love reading, history (I'm a good tour guide, 😜), movies, sports🏃🏼‍♂️, and videogames.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://portafoliojorgesm.netlify.app](https://portafoliojorgesm.netlify.app)
