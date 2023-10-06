@@ -1,5 +1,6 @@
 <h1 align="center">Hi! 👋, I'm Jorge Salazar</h1>
 <h2 align="center" style="color: blue;">About me</h2>
+
 <h3 align="center">Law graduate and lawyer👨🏼‍⚖️, reoriented towards my passion for technology 💻. Graduated as a Higher Technician in Web Application Development (DAW), and specializing as a web developer for Microsoft Azure. I'm also specializing in cybersecurity, all for secure browsing 😄 and to satisfy my hunger for knowledge. My goal is to become a great full-stack developer, and that's why I'm researching and trying to improve every day. 💪💪 
 <br/><br/>
 I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 
@@ -7,8 +8,7 @@ I currently live in Spain, but I've always loved traveling and experiencing new 
 🕵🏼‍♂️👨🏼‍💻 I worked for years as a lawyer, specializing in property law 🏬, but I decided to change my life and fulfill the dream of exploring new technologies from within. That's why I prefer to develop, bring them to life, and create beautiful projects. 
 <br/><br/>
 I love reading, history (I'm a good tour guide, 😜), movies, sports🏃🏼‍♂️, and videogames.</h3>
-
-
+<br/><br/>
 
 
 - 👨‍💻 All of my projects are available at [https://portafoliojorgesm.netlify.app](https://portafoliojorgesm.netlify.app)
